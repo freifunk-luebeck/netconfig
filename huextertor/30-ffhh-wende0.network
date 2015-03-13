@@ -1,0 +1,5 @@
+[Match]
+Name=ffhh-wende0
+
+[Network]
+Address=2a03:2267:ffff:b01::2/64

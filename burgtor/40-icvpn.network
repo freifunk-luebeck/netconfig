@@ -1,0 +1,7 @@
+[Match]
+Name=icvpn
+
+[Network]
+IPForward=yes
+Address=10.207.0.131/16
+Address=fec0::a:cf:0:83/96

@@ -1,0 +1,6 @@
+[Match]
+Name=icvpn
+
+[Network]
+Address=10.207.0.130/16
+Address=fec0::a:cf:0:82/96

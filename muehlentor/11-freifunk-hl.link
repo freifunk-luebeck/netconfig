@@ -1,0 +1,5 @@
+[Match]
+Path=virtual-freifunk-hl
+
+[Link]
+MACAddress=de:ad:ca:fe:46:1d

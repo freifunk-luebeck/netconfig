@@ -1,0 +1,7 @@
+[Match]
+Name=freifunk-hl
+
+[Network]
+Address=10.130.0.253/20
+Address=2001:67c:2d50::c01/64
+Address=fdef:ffc0:3dd7::c01/64

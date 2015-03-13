@@ -1,0 +1,6 @@
+[Match]
+Name=ffrhein-ber
+
+[Network]
+Address=100.64.0.165/31
+Address=2a03:2260:0:59::2/64

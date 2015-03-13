@@ -1,0 +1,8 @@
+[Match]
+Name=eth0
+
+[Network]
+Address=192.168.122.11/24
+Gateway=192.168.122.1
+
+Tunnel=he-ipv6

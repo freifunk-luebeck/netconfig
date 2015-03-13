@@ -1,0 +1,6 @@
+[Match]
+Name=nat64
+
+[Network]
+Address=fe80::1/64
+Address=127.0.0.2/8
