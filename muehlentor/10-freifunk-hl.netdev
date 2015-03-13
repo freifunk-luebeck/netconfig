@@ -1,3 +1,4 @@
 [NetDev]
 Name=freifunk-hl
 Kind=bridge
+MACAddress=de:ad:ca:fe:46:1d
